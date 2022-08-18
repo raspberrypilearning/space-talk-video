@@ -1,16 +1,5 @@
 ## Create your scene
 
-<div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-In this step, you will set up your project with a space backdrop and the first sprite. 
-</div>
-<div>
-
-![The Space backdrop with the Pico sprite.](images/backdrop-step.png){:width="300px"}
-
-</div>
-</div>
-
 --- task ---
 
 Open the [Space talk starter project](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"}. Scratch will open in another browser tab.
@@ -19,37 +8,14 @@ Open the [Space talk starter project](https://scratch.mit.edu/projects/582213331
 
 --- /task ---
 
-The Scratch editor looks like this:
-
-![An annotated screenshot of the Scratch editor, with the Stage, Stage pane, Sprite pane, Sprite list, and Code area labelled.](images/scratch-interface.png)
-
-The **Stage** is where your project runs. A **backdrop** changes the way that the Stage looks.
-
 --- task ---
 
-Click (or on a tablet, tap) on **Choose a Backdrop** in the Stage pane:
+Add a **backdrop** to your project. Our example uses the **space** backdrop. 
 
-![The 'Choose a Backdrop' icon.](images/backdrop-button.png)
-
-![The Scratch editor with 'Choose a Backdrop' highlighted in the bottom right-hand corner.](images/choose-a-backdrop.png)
-
---- /task ---
-
---- task ---
-
-Click on the **Space** category or type `space` in the search box:
-
-![The Backdrop Library with the 'Space' category selected.](images/space-backdrops.png)
-
---- /task ---
-
-In our example, we have chosen the **Space** backdrop, but choose the backdrop that you like the most.
-
---- task ---
-
-Click on your chosen backdrop to add it to your project. The Stage should show the backdrop that you chose:
-
-![The Scratch editor with the Space backdrop added.](images/inserted-backdrop.png)
+<video width="640" height="360" controls preload="none" poster="images/space-talk-placeholder.png">
+<source src="images/space-talk-step-2-eng.mp4" type="video/mp4">
+Your browser does not support WebM video, try FireFox or Chrome
+</video>
 
 --- /task ---
 
