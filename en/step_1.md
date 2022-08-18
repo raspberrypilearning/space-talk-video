@@ -9,7 +9,7 @@ Your browser does not support WebM video, try FireFox or Chrome
 ### Try it
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
-Click on each sprite to see what they do. 
+![Click icon.](images/click.png) Click on each sprite to see what they do. 
 
 What happens if you click on one sprite and then quickly click on another sprite?
 </div>
