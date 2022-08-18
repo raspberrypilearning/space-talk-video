@@ -1,59 +1,39 @@
 ## Introduction
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+In this project, you will create a space scene with characters that 'emote' to share their thoughts or feelings.
 
-### What you will make
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">**Emotes**</span> are a way of showing the personality of a character in a game. They can use speech, sounds, movement, and graphic effects, just like in Scratch. Do you play any games that use emotes?
+</p>
+
+In Scratch, characters and objects are called **sprites**, and they appear on the **Stage**. 
+
+You will:
++ Add sprites and a **backdrop** to set up your project
++ Click on sprites to make them communicate using `Looks`{:class="block3looks"} and `Sound`{:class="block3sound"} code blocks
++ Use the **Paint editor** to change a **costume**
 
 --- no-print ---
-Add instructions for interacting with the embedded content here.
+--- task ---
+### Try it
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 175px; flex-grow: 1">  
+Click on each sprite to see what they do. 
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
+What happens if you click on one sprite and then quickly click on another sprite?
 </div>
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/485673032/?autostart=false" frameborder="0"></iframe>
+</div>
+</div>
+--- /task ---
 --- /no-print ---
 
 --- print-only ---
-![Complete project](images/showcase_static.png)
+
+![The completed project.](images/showcase_static.png)
+
 --- /print-only ---
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+![](https://code.org/api/hour/begin_raspi_space.png)
 
-+ A computer or tablet capable of running Scratch 3
-
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
