@@ -41,17 +41,10 @@ Your browser does not support WebM video, try FireFox or Chrome
 
 If you are signed in to your Scratch account, click on the green Remix button. This will save a copy of the project to your Scratch account.
 
-![The remix button.](images/remix-button.png)
-
-Type the name of your project in the project name box at the top of the screen.
-
-![The project name box.](images/project-name.png)
-
-**Tip:** Give your projects helpful names so that you can easily find them when you have lots of projects. 
-
-Next, click on **File**, and then on **Save now** to save your project.
-
-![The 'File' menu options.](images/file-menu.png)
+<video width="640" height="360" controls preload="none" poster="images/space-talk-placeholder.png">
+<source src="images/en-ST-step-two-save.mp4" type="video/mp4">
+Your browser does not support WebM video, try FireFox or Chrome
+</video>
 
 If you are not online or you do not have a Scratch account, you can click on **Save to your computer** to save a copy of your project.
 
