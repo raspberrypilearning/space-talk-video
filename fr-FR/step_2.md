@@ -1,15 +1,4 @@
-## Créer ta scène
-
-<div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Dans cette étape, tu vas configurer ton projet avec un fond d'espace et le premier sprite. 
-</div>
-<div>
-
-![La toile de fond Space avec le sprite Pico.](images/backdrop-step.png){:width="300px"}
-
-</div>
-</div>
+## Créer ta scène 
 
 --- task ---
 
@@ -19,11 +8,17 @@ Ouvre le [projet de démarrage Space talk](https://scratch.mit.edu/projects/5822
 
 --- /task ---
 
-L'éditeur Scratch ressemble à ceci:
+--- task ---
 
-![Une capture d'écran annotée de l'éditeur Scratch, avec la scène, le volet Scène, le volet Sprite, la liste Sprite et la zone Code étiquetés.](images/scratch-interface.png)
+Clique sur l'arrière-plan de ton choix pour l'ajouter à ton projet. La scène doit afficher l'arrière-plan que tu as choisi :
 
-La **Scène** est l'endroit où ton projet s'exécute. Un **arrière-plan** change l'apparence de la scène.
+<video width="640" height="360" controls preload="none" poster="images/space-talk-placeholder.png">
+<source src="images/fr-ST-step2-add-backdrop.mp4" type="video/mp4">
+Your browser does not support WebM video, try FireFox or Chrome
+</video>
+
+--- /task ---
+
 
 --- task ---
 
@@ -32,24 +27,6 @@ Clique (ou sur une tablette, appuie) sur **Choisir un arrière-plan** dans le vo
 ![L'icône « Choisir un arrière-plan ».](images/backdrop-button.png)
 
 ![L'éditeur Scratch avec « Choisir un arrière-plan» mis en évidence dans le coin inférieur droit.](images/choose-a-backdrop.png)
-
---- /task ---
-
---- task ---
-
-Clique sur l'**Espace** ou tape `espace` dans le champ de recherche :
-
-![La bibliothèque d'arrière-plan avec la catégorie « Espace » sélectionnée.](images/space-backdrops.png)
-
---- /task ---
-
-Dans notre exemple, nous avons choisi l'**Espace** , mais choisis l'arrière-plan que tu aimes le plus.
-
---- task ---
-
-Clique sur l'arrière-plan de ton choix pour l'ajouter à ton projet. La scène doit afficher l'arrière-plan que tu as choisi :
-
-![L'éditeur Scratch avec l'arrière-plan Espace ajouté.](images/inserted-backdrop.png)
 
 --- /task ---
 
