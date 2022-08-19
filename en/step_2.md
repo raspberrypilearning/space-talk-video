@@ -4,8 +4,10 @@
 
 Open the [Space talk starter project](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"}. Scratch will open in another browser tab.
 
+Delete the **Sprite1** (Scratch Cat) sprite.
+
 <video width="640" height="360" controls preload="none" poster="images/space-talk-placeholder.png">
-<source src="images/en-ST-step2-add-backdrop.mp4" type="video/mp4">
+<source src="images/en-ST-step-two-open-delete.mp4" type="video/mp4">
 Your browser does not support WebM video, try FireFox or Chrome
 </video>
 
@@ -21,16 +23,6 @@ Choose a **backdrop**:
 <source src="images/en-ST-step2-add-backdrop.mp4" type="video/mp4">
 Your browser does not support WebM video, try FireFox or Chrome
 </video>
-
---- /task ---
-
-Can you see the sprite that is already included in your project? That is the Scratch Cat.
-
---- task ---
-
-Delete the **Sprite1** (Scratch Cat) sprite: select the **Sprite1** sprite in the Sprite list below the Stage and click on the **Delete** icon.
-
-![The 'Delete' icon.](images/delete-sprite.png)
 
 --- /task ---
 
