@@ -4,7 +4,7 @@
 
 Ouvre le [projet de démarrage Space talk](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"}. Scratch s'ouvrira dans un autre onglet du navigateur.
 
-Supprimer le sprite sprite1 (Scratch Cat).
+Supprimer le sprite **sprite1** (Scratch Cat).
 
 <video width="640" height="360" controls preload="none" poster="images/space-talk-placeholder.png">
 <source src="images/fr-ST-step-two-open-delete.mp4" type="video/mp4">
@@ -28,27 +28,12 @@ Votre navigateur ne prend pas en charge la vidéo WebM, essayez FireFox ou Chrom
 
 --- task ---
 
-Clique sur **Choisir un Sprite** dans la liste Sprite :
+**Choisir un Sprite** dans la liste Sprite:
 
-![L'icône 'Choisir un Sprite'.](images/sprite-button.png)
-
-![L'éditeur Scratch avec « Choisir un Sprite » en surbrillance.](images/choose-a-sprite.png)
-
---- /task ---
-
---- task ---
-
-Sélectionne la catégorie **Fantaisie**. Clique sur le sprite **Pico** pour les ajouter à ton projet.
-
-![La catégorie « Fantaisie » avec le sprite Pico.](images/fantasy-pico.png)
-
---- /task ---
-
---- task ---
-
-Fais glisser le sprite **Pico** pour les positionner sur le côté gauche de la scène. Ta scène devrait ressembler à ceci :
-
-![La scène avec le l'arrière-plan choisi et le sprite Pico positionné sur le côté gauche.](images/pico-on-stage.png)
+<video width="640" height="360" controls preload="none" poster="images/space-talk-placeholder.png">
+<source src="images/fr-ST-step-two-add-pico.mp4" type="video/mp4">
+Votre navigateur ne prend pas en charge la vidéo WebM, essayez FireFox ou Chrome
+</video>
 
 --- /task ---
 
