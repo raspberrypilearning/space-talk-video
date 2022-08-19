@@ -4,9 +4,11 @@
 
 Ouvre le [projet de démarrage Space talk](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"}. Scratch s'ouvrira dans un autre onglet du navigateur.
 
+Supprimer le sprite sprite1 (Scratch Cat).
+
 <video width="640" height="360" controls preload="none" poster="images/space-talk-placeholder.png">
-<source src="images/en-ST-step2-add-backdrop.mp4" type="video/mp4">
-Your browser does not support WebM video, try FireFox or Chrome
+<source src="images/en-ST-step-two-open-delete.mp4" type="video/mp4">
+Votre navigateur ne prend pas en charge la vidéo WebM, essayez FireFox ou Chrome
 </video>
 
 [[[working-offline]]]
@@ -19,18 +21,8 @@ Choisir un **arrière-plan**:
 
 <video width="640" height="360" controls preload="none" poster="images/space-talk-placeholder.png">
 <source src="images/fr-ST-step2-add-backdrop.mp4" type="video/mp4">
-Your browser does not support WebM video, try FireFox or Chrome
+Votre navigateur ne prend pas en charge la vidéo WebM, essayez FireFox ou Chrome
 </video>
-
---- /task ---
-
-Peux-tu voir le sprite qui est déjà inclus dans ton projet ? C'est le chat Scratch.
-
---- task ---
-
-Supprimer le sprite **sprite1** (Scratch Cat) : sélectionne le sprite **Sprite1** dans la liste Sprite sous la scène et clique sur l'icône **Supprimer**.
-
-![L'icône 'Supprimer'.](images/delete-sprite.png)
 
 --- /task ---
 
