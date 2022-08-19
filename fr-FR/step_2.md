@@ -4,13 +4,18 @@
 
 Ouvre le [projet de démarrage Space talk](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"}. Scratch s'ouvrira dans un autre onglet du navigateur.
 
+<video width="640" height="360" controls preload="none" poster="images/space-talk-placeholder.png">
+<source src="images/en-ST-step2-add-backdrop.mp4" type="video/mp4">
+Your browser does not support WebM video, try FireFox or Chrome
+</video>
+
 [[[working-offline]]]
 
 --- /task ---
 
 --- task ---
 
-Choisir un arrière-plan:
+Choisir un **arrière-plan**:
 
 <video width="640" height="360" controls preload="none" poster="images/space-talk-placeholder.png">
 <source src="images/fr-ST-step2-add-backdrop.mp4" type="video/mp4">
