@@ -28,27 +28,12 @@ Your browser does not support WebM video, try FireFox or Chrome
 
 --- task ---
 
-Click on **Choose a Sprite** in the Sprite list:
+**Choose a Sprite** in the Sprite list:
 
-![The 'Choose a Sprite' icon.](images/sprite-button.png)
-
-![The Scratch editor with 'Choose a Sprite' highlighted.](images/choose-a-sprite.png)
-
---- /task ---
-
---- task ---
-
-Select the **Fantasy** category. Click on the **Pico** sprite to add them to your project.
-
-![The 'Fantasy' category with the Pico sprite.](images/fantasy-pico.png)
-
---- /task ---
-
---- task ---
-
-Drag the **Pico** sprite to position them on the left-hand side of the Stage. Your Stage should look something like this:
-
-![The Stage with the chosen backdrop and the Pico sprite positioned on the left-hand side.](images/pico-on-stage.png)
+<video width="640" height="360" controls preload="none" poster="images/space-talk-placeholder.png">
+<source src="images/en-ST-step-two-add-pico.mp4" type="video/mp4">
+Your browser does not support WebM video, try FireFox or Chrome
+</video>
 
 --- /task ---
 
