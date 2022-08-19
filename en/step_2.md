@@ -1,4 +1,4 @@
-## Create your scene
+## Create your scene 
 
 --- task ---
 
@@ -10,7 +10,7 @@ Open the [Space talk starter project](https://scratch.mit.edu/projects/582213331
 
 --- task ---
 
-Add a **backdrop** to your project. Our example uses the **space** backdrop. 
+Add a **backdrop** to your project. 
 
 <video width="640" height="360" controls preload="none" poster="images/space-talk-placeholder.png">
 <source src="images/en-ST-step2-add-backdrop.mp4" type="video/mp4">
