@@ -10,23 +10,12 @@ Ouvre le [projet de démarrage Space talk](https://scratch.mit.edu/projects/5822
 
 --- task ---
 
-Clique sur l'arrière-plan de ton choix pour l'ajouter à ton projet. La scène doit afficher l'arrière-plan que tu as choisi :
+Choisir un arrière-plan:
 
 <video width="640" height="360" controls preload="none" poster="images/space-talk-placeholder.png">
 <source src="images/fr-ST-step2-add-backdrop.mp4" type="video/mp4">
 Your browser does not support WebM video, try FireFox or Chrome
 </video>
-
---- /task ---
-
-
---- task ---
-
-Clique (ou sur une tablette, appuie) sur **Choisir un arrière-plan** dans le volet Scène :
-
-![L'icône « Choisir un arrière-plan ».](images/backdrop-button.png)
-
-![L'éditeur Scratch avec « Choisir un arrière-plan» mis en évidence dans le coin inférieur droit.](images/choose-a-backdrop.png)
 
 --- /task ---
 
