@@ -1,10 +1,8 @@
-## Que faire ensuite?
+## Questionnaire rapide
 
-Bravo, tu as beaucoup appris ! Maintenant, il est temps de réfléchir — la réflexion est une partie importante de l'apprentissage, car elle aide à établir de nouvelles connexions dans votre cerveau.
+Répondez aux **trois** questions. Il y a des indices pour vous guider vers la bonne réponse.
 
-Réponds aux trois questions ci-dessous pour réfléchir à ce que tu as appris.
-
-Lorsque tu as répondu à chaque question, tapes sur **Soumettre**. Tu seras guidé vers la bonne réponse. Tu peux faire cette activité autant de fois que tu le souhaites.
+Lorsque vous avez répondu à chaque question, cliquez sur Vérifier ma réponse.
 
 Amuse-toi bien!
 
