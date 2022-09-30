@@ -1,43 +1,19 @@
 ## Améliorer ton projet
 
-<div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Ajoute le sprite **Tera** et utilise l'un des blocs que tu as appris pour créer une « émotion » pour le sprite **Tera**.
-</div>
-<div>
+La personnalité du sprites est ton choix, alors amuse-toi en utilisant tes propres idées créatives.
 
-![Le sprite Tera sur la scène.](images/tera-step.png){:width="300px"}
+--- task ---
 
-</div>
-</div>
+Améliorer ton projet
 
-La personnalité du sprite **Tera** est ton choix, alors amuse-toi en utilisant tes propres idées créatives.
+<video width="640" height="360" controls preload="none" poster="images/space-talk-placeholder.png">
+<source src="images/upgrade.mp4" type="video/mp4">
+Your browser does not support WebM video, try FireFox or Chrome
+</video>
 
-```blocks3
-when this sprite clicked
-
-say [Bonjour !] for [2] seconds
-
-say [Bonjour !]
-
-say [] // masquer la bulle de dialogue
-
-think [Hum...] for [2] seconds
-
-switch costume to [tera-d v]
-
-set [color v] effect to [0] // nombre jusqu'à 200
-
-clear graphic effects
-
-play sound [pop v] until done
-
-start sound [pop v]
-```
+--- /task ---
 
 Tu peux également « remixer » le projet pour apporter les modifications que tu souhaites. Tu peux changer l'arrière-plan et la façon dont les sprites s'émeuvent, et même choisir différents sprites et leur donner des émotions.
-
-**Astuce :** Clique sur une image-objet dans la liste des images-objets sous la scène pour modifier le code, les costumes et le son de cette image-objet.
 
 --- collapse ---
 ---
@@ -56,5 +32,3 @@ title: Le projet achevé
 Tu peux voir le [projet terminé ici](https://scratch.mit.edu/projects/595566051/){:target="_blank"}.
 
 --- /collapse ---
-
---- save ---
